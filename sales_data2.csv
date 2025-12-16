@@ -1,0 +1,51 @@
+Date,Category,Product,Region,PaymentMethod,CustomerAge,Quantity,Price,Discount,Total
+2023-01-01,Electronics,Laptop,North,Credit Card,24,1,1200.00,0.10,1080.00
+2023-01-02,Clothing,T-Shirt,South,Cash,19,5,20.00,0.00,100.00
+2023-01-03,Home,Blender,East,PayPal,45,2,50.00,0.05,95.00
+2023-01-04,Electronics,Headphones,West,Credit Card,31,3,150.00,0.00,450.00
+2023-01-05,Clothing,Jeans,North,Cash,22,2,40.00,0.00,80.00
+2023-01-06,Electronics,Mouse,North,PayPal,29,5,25.00,0.10,112.50
+2023-01-07,Home,Table,East,Credit Card,55,1,300.00,0.15,255.00
+2023-01-08,Clothing,Dress,South,Credit Card,27,1,80.00,0.00,80.00
+2023-01-09,Electronics,Monitor,West,PayPal,40,2,200.00,0.05,380.00
+2023-01-10,Home,Chair,West,Cash,60,4,50.00,0.00,200.00
+2023-01-11,Electronics,Laptop,East,Credit Card,35,1,1200.00,0.00,1200.00
+2023-01-12,Clothing,Jacket,North,Cash,25,1,120.00,0.20,96.00
+2023-01-13,Home,Lamp,South,PayPal,33,3,30.00,0.00,90.00
+2023-01-14,Electronics,Keyboard,East,Credit Card,21,2,45.00,0.00,90.00
+2023-01-15,Clothing,Shoes,West,Credit Card,28,1,90.00,0.10,81.00
+2023-01-16,Home,Sofa,North,Credit Card,50,1,500.00,0.10,450.00
+2023-01-17,Electronics,Laptop,South,PayPal,26,1,1200.00,0.05,1140.00
+2023-01-18,Clothing,T-Shirt,East,Cash,20,10,20.00,0.00,200.00
+2023-01-19,Home,Blender,West,Credit Card,39,1,50.00,0.00,50.00
+2023-01-20,Electronics,Headphones,North,PayPal,30,2,150.00,0.15,255.00
+2023-01-21,Clothing,Jeans,South,Cash,23,3,40.00,0.00,120.00
+2023-01-22,Electronics,Mouse,East,Credit Card,41,1,25.00,0.00,25.00
+2023-01-23,Home,Table,West,PayPal,52,1,300.00,0.05,285.00
+2023-01-24,Clothing,Dress,North,Credit Card,34,2,80.00,0.10,144.00
+2023-01-25,Electronics,Monitor,South,Credit Card,29,1,200.00,0.00,200.00
+2023-01-26,Home,Chair,East,Cash,65,2,50.00,0.20,80.00
+2023-01-27,Electronics,Keyboard,West,PayPal,22,1,45.00,0.00,45.00
+2023-01-28,Clothing,Jacket,North,Credit Card,30,1,120.00,0.05,114.00
+2023-01-29,Home,Lamp,South,Cash,48,2,30.00,0.00,60.00
+2023-01-30,Clothing,Shoes,East,Credit Card,27,2,90.00,0.10,162.00
+2023-01-31,Electronics,Laptop,West,PayPal,36,1,1200.00,0.00,1200.00
+2023-02-01,Home,Sofa,North,Credit Card,42,1,500.00,0.15,425.00
+2023-02-02,Electronics,Headphones,South,Cash,19,1,150.00,0.00,150.00
+2023-02-03,Clothing,T-Shirt,East,PayPal,24,4,20.00,0.05,76.00
+2023-02-04,Home,Blender,West,Credit Card,51,1,50.00,0.00,50.00
+2023-02-05,Electronics,Mouse,North,Credit Card,32,2,25.00,0.00,50.00
+2023-02-06,Clothing,Jeans,South,Cash,21,1,40.00,0.00,40.00
+2023-02-07,Electronics,Monitor,East,PayPal,38,1,200.00,0.10,180.00
+2023-02-08,Home,Table,West,Credit Card,57,1,300.00,0.00,300.00
+2023-02-09,Clothing,Dress,North,PayPal,29,1,80.00,0.05,76.00
+2023-02-10,Electronics,Keyboard,South,Credit Card,25,3,45.00,0.00,135.00
+2023-02-11,Home,Chair,East,Cash,63,2,50.00,0.15,85.00
+2023-02-12,Clothing,Jacket,West,Credit Card,33,1,120.00,0.00,120.00
+2023-02-13,Electronics,Laptop,North,PayPal,28,1,1200.00,0.10,1080.00
+2023-02-14,Home,Lamp,South,Credit Card,46,4,30.00,0.05,114.00
+2023-02-15,Clothing,Shoes,East,Cash,22,1,90.00,0.00,90.00
+2023-02-16,Electronics,Headphones,West,PayPal,35,1,150.00,0.00,150.00
+2023-02-17,Home,Sofa,North,Credit Card,49,1,500.00,0.20,400.00
+2023-02-18,Clothing,T-Shirt,South,Credit Card,20,3,20.00,0.00,60.00
+2023-02-19,Electronics,Mouse,East,Cash,31,2,25.00,0.00,50.00
